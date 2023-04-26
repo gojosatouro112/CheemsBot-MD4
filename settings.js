@@ -54,15 +54,15 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.vcardowner = ['01210692662'] //ur owner number
+global.vcardowner = ['01020489238'] //ur owner number
 global.ownername = "𝑮𝑶𝑱𝑶 𝑺𝑨𝑻𝑼𝑹𝑶🐼🍷 ٫" //ur owner name
 global.ytname = "YT: 𝑮𝑶𝑱𝑶 𝑺𝑨𝑻𝑼𝑹𝑶" //ur yt chanel name
-global.socialm = "GitHub: ABDUL RAHMAN" //ur github or insta name
+global.socialm = "GitHub:" 𝑮𝑶𝑱𝑶 𝑺𝑨𝑻𝑼𝑹𝑶" //ur github or insta name
 global.location = "Egypt, cairo, Aizawl" //ur location
 
 //bot bomdy 
-global.owner = ['01210692662']
-global.ownertag = '01210692662' //ur tag number
+global.owner = ['01020489238']
+global.ownertag = '01020489238' //ur tag number
 global.botname = '𝑮𝑶𝑱𝑶 𝑺𝑨𝑻𝑼𝑹𝑶 Bot🐼🍷 ٫' //ur bot name
 global.linkz = "https://chat.whatsapp.com/LXZnV3rPFqD4ryPvG0Cyvvv" //your theme url which will be displayed on whatsapp
 global.websitex = "https://chat.whatsapp.com/LXZnV3rPFqD4ryPvG0Cyvvv" //ur website to be displayed
@@ -70,7 +70,7 @@ global.botscript = 'https://chat.whatsapp.com/LXZnV3rPFqD4ryPvG0Cyvvv' //script 
 global.reactmoji = "🌚" //ur menu react emoji
 global.themeemoji = "🌞" //ur theme emoji
 global.packname =  "⍣ Gojo ⍣" //ur sticker watermark packname
-global.author = "⍣01210692662⍣" //ur sticker watermark author
+global.author = "⍣01020489238⍣" //ur sticker watermark author
 
 //Bot theme media
 global.thum = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
@@ -79,7 +79,7 @@ global.err4r = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur error pic
 global.thumb = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
 
 //damtabase
-global.premium = ['01210692662'] //ur premium numbers
+global.premium = ['01020489238'] //ur premium numbers
 global.ntilinkytvid = []
 global.ntilinkytch = []
 global.ntilinkig = []
